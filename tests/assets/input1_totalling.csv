@@ -1,0 +1,7 @@
+product_code,quantity,pick_location
+123,100,AC 7
+321,20,AC 5
+123,3,AC 7
+321,1,AC 5
+321,300,AC 5
+123,20,AC 7
